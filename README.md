@@ -1,7 +1,3 @@
-# TestDummy
-
-### This is the first commit  
-
-##  First commit on DummyBranch  
+# TestDummy  
 
 ## This is on the Main Branch  
